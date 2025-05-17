@@ -7,3 +7,12 @@ author:
 
 minima:
   skin: auto
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/mhvis"
+    - title: Strava
+      icon: strava
+      url: "https://www.strava.com/athletes/122372338"
+  hide_site_feed_link: true
+  show_excerpts: true
