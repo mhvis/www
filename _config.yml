@@ -1,5 +1,5 @@
-theme: minima
-title: My homepage
+remote_theme: "jekyll/minima@0b7ca6b"
+title: Welcome to my homepage
 author:
   name: Maarten Visscher
   email: "mail@maartenvisscher.nl"
